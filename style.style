@@ -1,0 +1,28 @@
+embeddedFonts: ["Roboto Slab"]
+pageSetup:
+    firstTemplate: oneColumnNoFooter
+pageTemplates:
+    oneColumnNoFooter:
+        frames: []
+            [0cm, 0cm, 100%, 100%]
+        showHeader : true
+        showFooter : false
+fontsAlias:
+    stdFont: Roboto Slab
+    stdBold: Roboto Slab-Bold
+    stdItalic: Roboto Slab-Oblique
+    stdBoldItalic: Roboto Slab-BoldOblique
+    stdSans: Courier
+    stdSansBold: Courier-Bold
+    stdSansItalic: Courier-Oblique
+    stdSansBoldItalic: Courier-BoldOblique
+    stdMono: Courier
+    stdMonoItalic: Courier-Oblique
+    stdMonoBold: Courier-Bold
+    stdMonoBoldItalic: Courier-BoldOblique
+    stdSerif: Roboto Slab
+styles:
+    base:
+        fontSize: 12
+        leading: 14
+        kerning: true
