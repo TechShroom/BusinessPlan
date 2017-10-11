@@ -12,7 +12,7 @@ Company Description
 -------------------
 TechShroom Studios is primarily a video game developer. It creates and sells
 video games to the general public. It was formed in Goleta, California, and is a
-sole proprietorsip. The company has not yet opened for business, as no games
+sole proprietorship. The company has not yet opened for business, as no games
 have been written by it yet. The headquarters are located at the owner's house,
 7170 Del Norte Drive, Goleta, CA. The organization of the company is simple:
 everybody is equal, except for the owner who manages everyone else. Employees
